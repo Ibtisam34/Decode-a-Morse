@@ -1,6 +1,4 @@
-# frozen_string_literal: true
-
-def de-----------------------code_char(code)
+def decode_char(code)
   morse_code = {
     'A' => '.-', 'B' => '-...', 'C' => '-.-.', 'D' => '-..', 'E' => '.',
     'F' => '..-.', 'G' => '--.', 'H' => '....', 'I' => '..', 'J' => '.---',
